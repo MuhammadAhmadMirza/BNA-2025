@@ -1,0 +1,8 @@
+ultralytics
+Pillow
+numpy
+opencv-python
+labelImg
+matplotlib
+plotly
+seaborn
