@@ -1,0 +1,4 @@
+traffic light
+car
+signboard
+zebra crossing
