@@ -1,9 +1,0 @@
-train: src/Round1/data/dataset/training
-val: src/Round1/data/dataset/testing
-nc: 4
-names:
-  0: traffic light
-  1: car
-  2: signboard
-  3: zebra crossing
-is_coco: false
