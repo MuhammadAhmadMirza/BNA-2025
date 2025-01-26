@@ -1,0 +1,8 @@
+to decode the messages from the mole...
+
+Part 1: The Reason; why it all happened. How it all went down.
+(Caeser Cipher, Shift Value = 17)
+
+Part 2: The Accusation; it's out, the duel has began. (XOR Cipher, key: 174)
+
+Part 3: The Truth; reality is harsh and unfair. (Atbash Cipher, Symmetrical Alphabetic Substitution [ A ---> Z, B ---> Y ])
