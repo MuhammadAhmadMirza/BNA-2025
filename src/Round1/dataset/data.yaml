@@ -1,6 +1,6 @@
 train: "P:/Python programs/BNA-2025/src/Round1/dataset/train"
 val: "P:/Python programs/BNA-2025/src/Round1/dataset/val"
 
-nc:
+nc: 1
 
-names: ['']
+names: ['robot']

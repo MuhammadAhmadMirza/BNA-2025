@@ -1,0 +1,7 @@
+Training command for Neural Insights:
+
+yolo task=detect mode=train model=yolov8n.yaml data='path/to/your/data.yaml' epochs=30 batch=8 imgsz=640 project="path/to/your/desktop"
+
+Test command for Neural Insights:
+
+yolo task=detect mode=predict model="path/to/your/best.pt" source="path/to/your/test/images" project="path/to\your\Desktop\runs" conf=0.5 show=True
